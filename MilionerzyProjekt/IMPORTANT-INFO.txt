@@ -1,0 +1,5 @@
+[EN]
+Add the Allegro 5 library to the project, for example, using NuGet in VisualStudio.
+
+[PL]
+Do projektu należy dodać bibliotekę Allegro 5 np. przy użyciu NuGet w VisualStudio.
