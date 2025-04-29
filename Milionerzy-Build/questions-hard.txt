@@ -1,0 +1,240 @@
+Jaka jest podstawowa jednostka informacji w komputerach?
+Byte
+Megabyte
+Bit
+Gigabyte
+C
+Co oznacza skrot "HTML" w kontekscie tworzenia stron internetowych?
+High Traffic Management Loop
+Hyper Text Markup Language
+Hostile Takeover Mechanism Log
+Humanoid Technology Maintenance Loop
+B
+Ktory z jezykow programowania jest czesto stosowany do analizy danych i uczenia maszynowego?
+Java
+C++
+Ruby
+Python
+D
+Ktora z poniższych struktur danych umożliwia przechowywanie elementow w porzadku "ostatni przychodzi, pierwszy wychodzi"?
+Kolejka
+Tablica
+Lista
+Stos
+D
+Jakie jest znaczenie skrotu "CPU" w kontekscie komputerow?
+Central Processing Unit
+Computer Processing Unit
+Central Power Unit
+Computer Power Unit
+A
+Ktora z ponizszych technologii jest wykorzystywana do przechowywania danych w chmurze?
+GPS
+USB
+AWS
+HDMI
+C
+Jakie jest znaczenie skrotu "URL" w kontekscie adresow stron internetowych?
+Uniform Resource Locator
+Universal Routing Language
+Unified Registration Link
+User Research Lab
+A
+Ktora z ponizszych baz danych jest oparta na relacyjnym modelu danych?
+MongoDB
+MySQL
+Redis
+Cassandra
+B
+Co oznacza skrot "LAN" w kontekscie sieci komputerowych?
+Long Access Node
+Logic Analysis Node
+Local Area Network
+Low-bandwidth Asynchronous Network
+C
+Ktory z ponizszych protokolow jest powszechnie wykorzystywany do bezpiecznej transmisji danych przez Internet?
+HTTP
+FTP
+SMTP
+SSL/TLS
+D
+Ktore z ponizszych narzedzi jest wykorzystywane do zarzadzania wersjami kodu zrodlowego?
+FTP
+DNS
+Git
+HTTP
+C
+Jak nazywa sie proces przeksztalcania kodu zrodlowego na kod wykonywalny?
+Interpretacja
+Debugowanie
+Linkowanie
+Kompilacja
+D
+Ktory z ponizszych protokolow jest wykorzystywany do wysylania i odbierania wiadomosci e-mail?
+SSH
+SMTP
+SNMP
+RTP
+B
+Co oznacza skrot "IoT" w kontekscie technologii?
+Internet of Things
+Input/Output Technology
+Information on Telecommunications
+Intelligent Office Tools
+A
+Ktory z ponizszych algorytmow sluzy do sortowania elementow w kolejnosci rosnacej?
+Quicksort
+Binary Search
+Depth-First Search
+Bubble Sort
+D
+Jak nazywa się proces sprawdzania, czy program dziala zgodnie z oczekiwaniami i spelnia wymagania?
+Debugowanie
+Testowanie oprogramowania
+Komilowanie
+Integracja
+B
+Ktory z ponizszych systemow operacyjnych jest oparty na jadrze Linux?
+Ubuntu
+Windows
+macOS
+Android
+A
+Co oznacza skrot "SQL" w kontekscie baz danych?
+Structured Query Language
+Secure Quick Login
+System Query Logic
+Server Quality Load
+A
+Ktora z poniższych technologii jest wykorzystywana do tworzenia interaktywnych stron internetowych?
+XML
+CSS
+JavaScript
+HTTP
+C
+Ktory z ponizszych jezykow programowania jest powszechnie stosowany do tworzenia aplikacji mobilnych na systemy iOS?
+Java
+C#
+Swift
+Ruby
+C
+Ktory z ponizszych jezykow programowania jest powszechnie stosowany do tworzenia aplikacji mobilnych na systemy Android?
+C++
+Python
+PHP
+Java
+D
+Ktory z ponizszych rodzajow atakow polega na przekazaniu do programu wiecej danych niz jest on w stanie obsluzyc, co moze prowadziv do naruszenia bezpieczenstwa?
+Phishing
+Przepełnienie bufora
+DdoS
+Man-in-the-middle
+B
+Ktory z ponizszych protokolow jest wykorzystywany do bezpiecznej transmisji danych przez Internet?
+HTTP
+FTP
+SSL/TLS
+UDP
+C
+Jak nazywa się technika analizy danych, ktora polega na odkrywaniu wzorcow i relacji w dużych zbiorach danych?
+Data mining
+Machine learning
+Artificial intelligence
+Neural network
+A
+Który z ponizszych formatow plikow jest powszechnie wykorzystywany do przechowywania grafiki trojwymiarowej?
+GIF
+CSV
+MP3
+OBJ
+D
+Ktory z ponizszych rodzajow baz danych jest zoptymalizowany do obslugi transakcji, zapewniając jednoczesnie integralnosc danych?
+Baza danych NoSQL
+Baza danych relacyjna
+Baza danych hierarchiczna
+Baza danych grafowa
+B
+Ktory z ponizszych protokolow sieciowych jest stosowany do bezpiecznej zdalnej administracji komputerów?
+SSH
+SMTP
+POP
+ICMP
+A
+Jak nazywa sie proces przeksztalcania surowych danych wejsciowych na bardziej uzyteczne i zrozumiale informacje?
+Data processing
+Data analysis
+Data mining
+Data interpretation
+A
+Ktora z ponizszych struktur danych jest wykorzystywana do przechowywania kluczy i wartosci, umozliwiajac efektywne wyszukiwanie?
+Kolejka
+Stos
+Tablica
+Mapa
+D
+Ktora z ponizszych technologii jest wykorzystywana do tworzenia interfejsu użytkownika w aplikacjach webowych?
+JSON
+HTML
+SQL
+XML
+B
+Ktore z ponizszych narzedzi jest wykorzystywane do automatycznego zarzadzania konfiguracja infrastruktury IT?
+Photoshop
+Excel
+Ansible
+PowerPoint
+C
+Jak nazywa sie proces tlumaczenia adresóo IP na latwiejsze do zapamietania nazwy domenowe?
+DNS
+DHCP
+API
+FTP
+A
+Ktory z ponizszych jezykow programowania jest czesto wykorzystywany do tworzenia aplikacji internetowych po stronie serwera?
+HTML
+PHP
+CSS
+JavaScript
+B
+Co oznacza skrot "VPN" w kontekscie sieci komputerowych?
+Visual Processing Node
+Voice Priority Number
+Virtual Private Network
+Video Playback Navigation
+C
+Ktory z ponizszych protokolow jest wykorzystywany do przesylania poczty elektronicznej z serwera do klienta?
+POP3
+TCP
+UDP
+IP
+A
+Ktory z ponizszych rodzajow atakow polega na wyslaniu duzej ilosci niechcianych wiadomosci e-mail?
+Phishing
+Spoofing
+Spamming
+DDoS
+C
+Jak nazywa sie proces tworzenia kopii zapasowej danych w celu ich odtworzenia w przypadku utraty lub uszkodzenia?
+Backup
+Restore
+Archive
+Encrypt
+A
+Ktory z ponizszych jezykow programowania jest czesto wykorzystywany do analizy danych i tworzenia wykresow/statystyk?
+Java
+R
+C#
+Swift
+B
+Co oznacza skrot "CSS" w kontekscie tworzenia stron internetowych?
+Centralized Security System
+Customized Scripting Syntax
+Computer System Standards
+Cascading Style Sheets
+D
+Ktory z ponizszych rodzajow testow oprogramowania polega na sprawdzaniu, czy system dziala poprawnie po wprowadzeniu zmian?
+Test regresji
+Test wydajności
+Test jednostkowy
+Test integracyjny
+A
