@@ -1,12 +1,54 @@
-# Milionerzy
-Student project of a game based on the program millionaires created in C with the Allegro 5 library
+# 🎮 Milionerzy
 
-[EN]
-My role in the project was to program the display of 2D graphics in Allegro 5, the design of the game and the look of the UI. All the graphics were drawn by me. I also selected the sounds. On the programming side, I added the randomisation of questions according to increasing difficulty level.
+**Milionerzy** is a student game project inspired by the *Who Wants to Be a Millionaire?* TV show, developed in **C** using the **Allegro 5** library.
 
-[PL]
-Moją rola w projekcie było programowanie wyświetlania grafiki 2D w Allegro 5, design gry oraz wygląd UI. Wszystkie elementy grafiki zostały narysowane przeze mnie. Wybierałem także dźwięki. Od strony programistycznej dodałem losowanie pytań w zależności od rosnącego poziomu trudności.
+---
 
-# Copyright and license
-The graphic resources were created by Mateusz Gozdek - Gozdeusz and are provided under the MIT license. This means that you are free to use them according to the terms of the license. 
-If you use this resource in your works or develop it, it would be nice if you put information about its original creator!
+## 📌 Project Overview
+
+The project focuses on creating a complete 2D game experience, including graphics rendering, UI design, game logic, and audio integration.  
+It was developed as part of a university course on the basics of programming in C.
+
+---
+
+## ✨ My Responsibilities
+
+- Programming 2D graphics rendering using Allegro 5
+- Designing the overall game layout and UI
+- Creating all graphical assets
+- Selecting and integrating sound effects
+- Implementing question randomization based on increasing difficulty levels
+
+---
+
+## 🛠️ Technologies Used
+
+- **C**
+- **Allegro 5**
+
+---
+
+## 📷 Screenshots
+
+### Game Screen
+![Game screen](screenshots/game-screen.png)
+
+### Lifeline 
+![Lifeline](screenshots/lifeline.png)
+
+### Scoreboard
+![Scoreboard](screenshots/scoreboard.png)
+
+> *All graphics shown above were designed and drawn by me.*
+
+---
+
+## 🧠 What I Learned
+
+- Rendering and managing 2D graphics using Allegro 5
+- Designing a clear and readable game UI
+- Structuring game logic in C
+- Implementing randomized gameplay mechanics
+- Combining graphics, sound, and logic into a complete game
+
+*Created by: Mateusz Gozdek, Bartosz Fijołek, Karol Kroczek*
